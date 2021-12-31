@@ -27,4 +27,4 @@ Execute the program
 </html>
 ~~~
 ## OUtPUT
-![output]()
+![output](https://github.com/Ramsai1234/Experiment_Basic_HTML_Tag/blob/main/Screenshot%20(24).png?raw=true)
