@@ -15,21 +15,16 @@ Execute the program
 
 # CODE
 ~~~<!DOCTYPE html>
+
 <html>
 
 <body>
-<h1>Name: Karthi Govindharaju</h1>
-<h3>Designation: Assistant Professor (SG) /h3>
-<h5>Dept.:Artificial Intelligence and Data Science</h5>
+<h1>Name: P.RAMSAI</h1>
+<h3>Designation:Student </h3>
+<h5>Dept.:Artificial Intelligence and Machine Learing</h5>
 </body>
 
 </html>
 ~~~
-# OUPUT
-<html>
-<body>
-<h1>Name: Karthi Govindharaju</h1>
-<h3>Designation: Assistant Professor (SG)</h3>
-<h5>Dept.:Artificial Intelligence and Data Science</h5>
-</body>
-</html>
+## OUtPUT
+![output](./screenshot (24))
