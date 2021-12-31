@@ -27,4 +27,4 @@ Execute the program
 </html>
 ~~~
 ## OUtPUT
-![output](./screenshot (24))
+![output]()
